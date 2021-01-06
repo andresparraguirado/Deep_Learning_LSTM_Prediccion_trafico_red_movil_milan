@@ -1,0 +1,5 @@
+No es necesario descargar los datos ya que están en el archivo data.pickle.
+
+En caso de querer usar los archivos originales, estos pueden ser descargados de:
+
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EGZHFV
